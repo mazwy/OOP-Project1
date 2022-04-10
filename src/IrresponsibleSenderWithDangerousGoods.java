@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class IrresponsibleSenderWithDangerousGoods {
+public class IrresponsibleSenderWithDangerousGoods extends Exception {
+
 }
