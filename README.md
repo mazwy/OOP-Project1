@@ -81,16 +81,3 @@ Principle of program operation:
 •	In the main method, create a seaport with at least five diﬀerent types of container ships loaded with diﬀerent containers. Additionally, several containers of diﬀerent types should be placed in the warehouse.
 
 •	After starting the application, the user should be able to call all of functionalities via the command console and the implemented menu.
-
-The project is based on PPJ and GUI material.
-
-Attention:
-
-•	In the case of receiving a project with significant deficiencies in implementation or a non-compiling solution, the result for such a project will be 0 points.
-
-•	Lack of knowledge of any line of code or plagiarism will result in obtaining 0 points for this project with the possibility of failing the entire subject.
-
-•	Not only the practical and substantive correctness of the solution will be as-sessed, but also the optimality, quality and readability of the code written by you.
-
-
-•	An important part of the project is the use of: inheritance, collections, interfa-ces or abstract classes, lambda expressions, Java Generics, additional functio-nalities or structures and other characteristic elements presented in the classes and lecture.
